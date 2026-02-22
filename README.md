@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @sgshryock
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Gordon Shryock
 
-<!---
-sgshryock/sgshryock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Enterprise Engineering | Software Development Hobbyist
+
+---
+
+9+ years building and leading teams that ship enterprise software in regulated
+environments. Hands-on with platform engineering, DevOps, and data-driven
+automation. Currently finishing a BS in Information Systems Technology at
+Santa Fe College.
+
+### Currently focused on
+
+- CI/CD standardization and containerized deployments
+- AI-augmented development workflows
+- Enterprise data governance and platform modernization
+
+### Outside of work
+
+- Homelab and self-hosting (Proxmox, Pi-hole, Kubernetes)
+- 3D printing and open-source tooling
+- TTRPGs (Foundry VTT module development)
+
+### Links
+
+[gordonshryock.dev](https://gordonshryock.dev)
